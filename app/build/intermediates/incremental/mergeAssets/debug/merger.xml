@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Uriel/Documents/Projetos/Pessoal/UnB/MMAndroid/app/src/main/assets"><file name="oauth_consumer.properties" path="/Users/Uriel/Documents/Projetos/Pessoal/UnB/MMAndroid/app/src/main/assets/oauth_consumer.properties"/></source></dataSet><dataSet config="debug"><source path="/Users/Uriel/Documents/Projetos/Pessoal/UnB/MMAndroid/app/src/debug/assets"/></dataSet></merger>

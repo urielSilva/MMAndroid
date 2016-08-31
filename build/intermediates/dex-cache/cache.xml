@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Uriel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/Uriel/Documents/Projetos/Pessoal/MMAndroid/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2885c1837144474121febfb90fc3ed6ab335d990.jar" />
+    </item>
+    <item
+        jar="/Users/Uriel/Documents/Projetos/Pessoal/MMAndroid/app/libs/socialauth-4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c6c98616c898afbf26a48d620584156ae516b93b">
+        <dex dex="/Users/Uriel/Documents/Projetos/Pessoal/MMAndroid/app/build/intermediates/pre-dexed/debug/socialauth-4.0-b8e38d00d4095ba1bc69b25c51a228bf1d3182ce.jar" />
+    </item>
+    <item
+        jar="/Users/Uriel/Documents/Projetos/Pessoal/MMAndroid/app/libs/socialauth-android-2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7dc0fa69ca8607becd3459be83b4af9fd7f7b1eb">
+        <dex dex="/Users/Uriel/Documents/Projetos/Pessoal/MMAndroid/app/build/intermediates/pre-dexed/debug/socialauth-android-2.0-714d295b23ddcbc5026617e1318284427a54c3c7.jar" />
+    </item>
+
+</items>
